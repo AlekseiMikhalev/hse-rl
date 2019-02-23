@@ -1,2 +1,3 @@
-# hse-rl
-Yandex Data School Reinforcement Learning course, Spring '19
+# Practical Reinforcement Learning
+
+You can find all course materials [here](https://github.com/yandexdataschool/Practical_RL).
